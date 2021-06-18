@@ -1,7 +1,7 @@
 # AirbnbBoston
 ## Introduction
 
-This GitHub repository has the code related to a Medium article that you can found [here](https://fran-alliende.medium.com/boston-airbnbs-data-analysis-6d9971dfdf2)
+This GitHub repository has the code related to a Medium article that you can found [here](https://fran-alliende.medium.com/boston-airbnbs-data-analysis-6d9971dfdf2).
 
 The objective of this work is to analyze the data from Boston Airbnb, available on the following [link](https://www.kaggle.com/airbnb/boston) and answer the following questions:
 
